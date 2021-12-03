@@ -62,7 +62,7 @@ export default {
               entry.target.dispatchEvent(event)
             }
           }
-        });
+        })
       })
     }
 

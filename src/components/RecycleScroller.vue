@@ -115,7 +115,7 @@ export default {
       type: Boolean,
       default: false,
     },
-    
+
     detectHover: {
       type: Boolean,
       default: true,
